@@ -7,7 +7,7 @@ I enjoy building applications across Android, web, and backend systems using Jav
 ---
 
 ## 🚀 About Me
-- 🔭 Focused on Java, Spring Boot, and Android development  
+- 🔭 Focused on Java, Spring Boot, React and Android development  
 - 🌱 Continuously learning backend development and system design  
 - 💡 Interested in building real-world, scalable applications  
 - 🎯 Goal: Become a skilled full-stack / backend engineer  
