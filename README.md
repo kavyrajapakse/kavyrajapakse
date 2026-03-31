@@ -38,7 +38,7 @@ Git, GitHub, GitHub Desktop, Apache Tomcat, Postman, VS Code, IntelliJ IDEA, And
 ## Contact
 📧 Email: kavithmamethmanthi0@gmail.com
 
-🌐 Portfolio: https://kavithmaportfolio.vercel.app/
+🌐 Portfolio: https://kavithma-portfolio.vercel.app/
 
 🔗 LinkedIn: https://www.linkedin.com/in/kavithma-rajapakse-58b5a6272/
 
