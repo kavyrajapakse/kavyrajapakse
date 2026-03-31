@@ -37,6 +37,6 @@ Git, GitHub, GitHub Desktop, Apache Tomcat, Postman, VS Code, IntelliJ IDEA, And
 
 ## Contact
 Email: kavithmamethmanthi0@gmail.com  
-LinkedIn: https://linkedin.com/in/your-profile  
+LinkedIn: https://www.linkedin.com/in/kavithma-rajapakse-58b5a6272/
 
 Thanks for visiting my profile!
