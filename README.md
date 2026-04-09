@@ -42,4 +42,6 @@ Git, GitHub, GitHub Desktop, Apache Tomcat, Postman, VS Code, IntelliJ IDEA, And
 
 🔗 LinkedIn: https://www.linkedin.com/in/kavithma-rajapakse-58b5a6272/
 
+🔗 Youtube: https://youtube.com/@kavy1111?si=AIyPsPuv-qzZoa6b
+
 Thanks for visiting my profile!
