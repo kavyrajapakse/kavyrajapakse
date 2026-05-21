@@ -1,22 +1,27 @@
 Hi, I'm Kavithma  
-Undergraduate | Software Developer  
+Software Engineering Undergraduate | Full-Stack, Backend & AI Enthusiast
 
-I enjoy building applications across Android, web, and backend systems using Java and modern web technologies. I like turning ideas into working systems and continuously improving my skills through practical projects.
+I’m passionate about building scalable applications and exploring how AI can improve modern software systems. I enjoy developing backend services, web applications, and Android projects while continuously learning new technologies through hands-on development.
+
+Currently, I’m focused on Java, Spring Boot, React, backend engineering, cloud technologies, and AI-assisted development workflows. I’m especially interested in how AI, automation, and intelligent systems can be integrated into real-world applications to improve user experience and productivity.
+
+I enjoy solving practical problems, learning quickly, and building projects that combine software engineering with modern AI tools and workflows.
 
 ---
 
 ## About Me
-- Currently focusing on Java, Spring Boot, React, and Android development  
-- Continuously learning backend development, system design, and cloud technologies  
-- Interested in building real-world, scalable applications  
-- Goal: Become a skilled full-stack / backend engineer  
+- Currently focusing on Java, Spring Boot, React, Python, and Android development  
+- Exploring AI-assisted development, automation systems, APIs, and cloud technologies  
+- Interested in backend engineering, scalable systems, and AI-powered applications
+- Passionate about learning modern software engineering and emerging AI technologies  
+- Goal: Become a skilled full-stack / backend engineer specializing in scalable and intelligent systems  
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-Java, JavaScript  
+Java, Python, JavaScript  
 
 **Web Development**  
 HTML, CSS, Bootstrap, React, JavaScript, PHP  
@@ -32,6 +37,15 @@ MySQL, PostgreSQL
 
 **Tools**  
 Git, GitHub, GitHub Desktop, Apache Tomcat, Postman, VS Code, IntelliJ IDEA, Android Studio, NetBeans  
+
+---
+
+## Currently Learning
+- Spring Security & Advanced Spring Boot
+- Cloud & DevOps Fundamentals 
+- AI integrations and automation workflows
+- System Design & Backend Architecture  
+- Machine Learning & LLM concepts
 
 ---
 
